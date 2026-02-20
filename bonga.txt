@@ -1,0 +1,29 @@
+=========================================
+   bonga
+   ESTADO DEL TORNEO: RONDA 1
+=========================================
+
+EQUIPO: uno (ID: 1)
+  > Puntos Totales: 0
+  > Rivales: dos
+  > SYSTEM_IDS_RIVALES: 2
+----------------------------------------
+EQUIPO: dos (ID: 2)
+  > Puntos Totales: 0
+  > Rivales: uno
+  > SYSTEM_IDS_RIVALES: 1
+----------------------------------------
+EQUIPO: tres (ID: 3)
+  > Puntos Totales: 0
+  > Rivales: cuatro
+  > SYSTEM_IDS_RIVALES: 4
+----------------------------------------
+EQUIPO: cuatro (ID: 4)
+  > Puntos Totales: 0
+  > Rivales: tres
+  > SYSTEM_IDS_RIVALES: 3
+----------------------------------------
+
+=== SYSTEM_PAREOS_ACTUALES ===
+1,2
+3,4

@@ -1,0 +1,7 @@
+Usando el sistema de torneos suizos pueden ocurrir empates entre los jugadores con mayor puntaje.
+La idea es jugar una cantidad de rondas tal que rondas = top(log2(E)) siendo E la cantidad de equipos, esto
+nos garantiza que haya a lo sumo un equipo sin partidos perdidos, por ende a lo sumo un ganador. Pero
+puede pasar que no haya equipo sin partidos perdidos.
+Como resolvemos el caso del empate entre los equipos con mas puntos?
+Las formas mas populares tienen en cuenta a quienes se han enfrentado anteriormente, a mi me parece
+que es dificil de convencer a el publico que eso es un metodo justo pero es algo a discutir.
